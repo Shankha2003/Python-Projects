@@ -14,4 +14,3 @@ if random_integer == 1:
     print(" It's a head")
 else:
     print(" It's a tail")
-
